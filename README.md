@@ -2,7 +2,7 @@
 - 👀 I’m interested in technical writing.
 - 🌱 I’m currently learning **doc-as-a-code** technology.
 - 💞️ I’m looking to collaborate on upcoming trends in technical writing.
-- 📫 You canreach me @ 9886128071 / dkumaras@progress.com
+- 📫 You can reach me @ 9886128071 / dkumaras@progress.com
 
 <!---
 dkumaras/dkumaras is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
