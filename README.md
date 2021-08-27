@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Deepa K.
 - 👀 I’m interested in technical writing.
-- 🌱 I’m currently learning doc-as-a-code technology.
+- 🌱 I’m currently learning **doc-as-a-code** technology.
 - 💞️ I’m looking to collaborate on upcoming trends in technical writing.
 - 📫 You canreach me @ 9886128071 / dkumaras@progress.com
 
